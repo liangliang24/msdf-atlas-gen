@@ -18,3 +18,5 @@ bin/*.lib
 output.png
 out/
 build/
+bin-int/
+bin/
